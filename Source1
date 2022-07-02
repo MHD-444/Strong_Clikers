@@ -96,7 +96,7 @@ e:Label("Made by MHD444#8522",{
     
 })
 e:Button("Discord server",function()
-    setclipboard("https://discord.gg/PRRwyEZ9FH")
+    setclipboard("https://discord.gg/psSMQvRSdd")
     CoreGui:SetCore("SendNotification", {
         Title = "Link Set to clipboard",
         Text = "Paste the link in your browser",
